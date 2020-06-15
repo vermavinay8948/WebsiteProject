@@ -7,6 +7,7 @@ public class Employee
 	String name;
 	String managerName;
 	double salary;
+	String comanyName;		
 	
 	
 	double getBonus()
